@@ -44,32 +44,32 @@ I build high-availability backend systems and autonomous AI workflows. With a ba
 
 ---
 
-### 🎓 Professional Background
+### Professional Background
 
-* **🚀 Intensive Python Mentorship (Sep 2025 – Feb 2026)**
+* ** Intensive Python Mentorship (Sep 2025 – Feb 2026)**
     A 6-month specialized program focused on Full-Stack development and high-concurrency systems.
     * **Core:** FastAPI, Django, Async architectures (Celery/Redis).
     * **Cloud & DevOps:** Production deployment via **Docker** on **AWS EC2** and **Azure**.
 
-* **🛠️ Software Engineering & Reliability Expert**
+* ** Software Engineering & Reliability Expert**
     Currently a **Software Tester at Bertrandt Technology Germany GmbH**, contributing to high-stakes Power Electronics projects. 
     * **Previous Experience:** Systems Verification at **Philotech GmbH** and Software Development at **Zedas GmbH**. 
     * **Mindset:** I bring a "test-first" engineering approach, ensuring code is resilient, scalable, and compliant with industry standards.
 
-* **📜 Academic Foundation**
+* ** Academic Foundation**
     * **B.S. in Computer Science:** Prydniprovska State Academy of Civil Engineering and Architecture (Ukraine). 
     * **Advanced Coursework (M.Sc. Informatik):** BTU Cottbus-Senftenberg (Germany).
     * **Focus:** Algorithms, Data Structures, and Mathematical Optimization.
 
-* **🌍 Global Collaboration**
+* ** Global Collaboration**
     * **Languages:** **German (C2/DSH-3)**, English (С1), Ukrainian (Native), Russian (Native).
 
 ---
-### 📈 GitHub Stats
-![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdchen&show_icons=true&theme=transparent)
+### GitHub Stats
+[![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdchen)](https://github.com/vdchen/github-readme-stats)
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 * **LinkedIn:** [linkedin.com/in/vladislav-diachenko](https://linkedin.com/in/vladislav-diachenko)
 * **Location:** Berlin / Remote
