@@ -15,11 +15,17 @@ I build high-availability backend systems and autonomous AI workflows. With a ba
 * **Databases:** PostgreSQL, NoSQL, SQLAlchemy, Peewee, Alembic
 * **Cloud & DevOps** AWS EC2, Azure, Docker, CI/CD (GitHub Actions), Git, SVN
 * **AI & Automation:** LLM Integration, Custom AI Agents, Data Processing Pipelines
-* **Testing:** Pytest, Unittest, Integration Testing
+* **Testing:** Pytest, Unittest, Integration Testing (pytest-asyncio)
 
 ---
 
 ### Featured Projects
+
+#### [Quittung](https://github.com/vdchen/Quittung) — AI-Native Expense Tracking Service 
+An asynchronous multimodal AI pipeline that transforms receipt photos and PDFs into structured accounting data.
+*   **Tech Stack:** FastAPI, Google Gemini 2.5 Flash, Celery, Redis, PostgreSQL (asyncpg), Aiogram.
+*   **Architecture:** Offloads heavy LLM parsing to Celery workers to maintain API responsiveness. Implements strict rate limiting, duplicate detection (idempotency), and robust error handling for malformed AI responses and encrypted PDFs.
+*   **Security:** Enforces REST access via `X-API-Key` and validates Telegram webhook authenticity using `X-Telegram-Bot-Api-Secret-Token`.
 
 #### [Secure Auth API Service](https://github.com/vdchen/Authentication-Authorization-API-Service)
 **High-Performance Authentication & Session Management**
@@ -55,7 +61,7 @@ I build high-availability backend systems and autonomous AI workflows. With a ba
 
 * **Software Engineering & Reliability Expert**
     Currently a **Software Tester at Bertrandt Technology Germany GmbH**, contributing to high-stakes Power Electronics projects. 
-    * **Previous Experience:** Systems Verification at **Philotech GmbH** and Software Development at **Zedas GmbH**. 
+    * **Previous Experience:** Systems Verification at **Philotech GmbH** 
     * **Mindset:** I bring a "test-first" engineering approach, ensuring code is resilient, scalable, and compliant with industry standards.
 
 * **Academic Foundation**
